@@ -97,7 +97,7 @@
   \end{enumerate}
   \item {\it Binary Response Online Updating}. The problem is simple but yet complicated. Online updating is essential because it breaks the storage barrier and helps with computation. Assume that a new observation arrives, and instead of refitting the entire model, you want to update your binary model estimates. Show that the contribution made by the observation $i$ to the likelihood function is
 \begin{align}
-l(y,\beta) = \sum_{i=1}^N \left( y_i log F(x'_i\beta) + (1-y_i) log F(1-x'_i\beta)  \right))
+l(y,\beta) = \sum_{i=1}^N \left( y_i log F(x'_i\beta) + (1-y_i) log (1-F(x'_i\beta)  \right))
 \end{align}
   is globally concave with respect to $\beta$ if the function $F$ is such that $F(-x)=1-F(x)$, and if it's derivative $f$, and it's second derivative $f'$ satisfy the condition
   \begin{align}
