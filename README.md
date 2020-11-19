@@ -10,4 +10,6 @@ Check the Syllabus [here](https://github.com/ECON-4676-UNIANDES/Syllabus)
 
 3. Problem Set 3 \[[Link to pdf](https://github.com/ECON-4676-UNIANDES/Problem_Sets/blob/master/Problem_Set3/Problem_Set_3.pdf)\]
 
+4. Problem Set 4 \[[Link to pdf](https://github.com/ECON-4676-UNIANDES/Problem_Sets/blob/master/Problem_Set4/Problem_Set_4.pdf)\]
+
 
